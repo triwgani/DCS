@@ -19,7 +19,7 @@ The project was to design, implement, and construct various control system, in a
 1. Hardware Design for Operation Console
 
   ![](Design.png)
-    
+  
 2. System Generation - Plant Overview Panel
 
   ![](SO.png)
@@ -27,16 +27,16 @@ The project was to design, implement, and construct various control system, in a
 3. System Generation - Control Group Trend Analysis Panel
 
   ![](Trend.png)
-  
-4. Panel Loopcheck - Commissioning / Site Acceptance test
 
+4. Panel Loopcheck - Commissioning / Site Acceptance Test
+  
   ![](Loop.png)
   
-5. Plant Historical Dashboard
-  
+5. Panel Historical Dashboard
+
   ![](Dashboard.png)
   
-6. Plant Process Operation Panel
+6. Operation Panel for Plant Operation
 
   ![](Operation.png)
   
