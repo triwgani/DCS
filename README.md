@@ -4,7 +4,7 @@
 
 Period of Service: February 2008 - October 2013
 
-
+![](DCS.png)
 
 The project was to design, implement, and construct various control system, in an effort to replace or migrate the existing and obsolete system or other competitors’ system product by utilizing latest Yokogawa DCS (Centum VP platform), instruments, as well as other computer and supporting information technologies.
 
