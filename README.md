@@ -15,7 +15,7 @@ The project was to design, implement, and construct various control system, in a
 3. Collaborating with procurement staff, project quality control, sales, and administration.
 4. Maintaining communication and project updates with customers and stakeholders!
 
-## Typical Works (Some pictures are intentionally blurred)
+## Typical Works (Some parts of the pictures are intentionally blurred)
 1. Hardware Design for Operation Console
 
   ![](Design.png)
